@@ -1,0 +1,14 @@
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-java-1.0.0-beta04-0 C:\Users\kevin\.gradle\caches\transforms-3\297b8caba905b407ec163da52ec549bc\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.videoplayer.video_player_android-lifecycle-runtime-2.3.1-1 C:\Users\kevin\.gradle\caches\transforms-3\47b1d47bdd1a10ffc12c9b8f7f4d5c5f\transformed\lifecycle-runtime-2.3.1\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-exoplayer-core-2.18.7-2 C:\Users\kevin\.gradle\caches\transforms-3\5e31d1f390361ff853931f034f76f114\transformed\jetified-exoplayer-core-2.18.7\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-annotation-experimental-1.1.0-3 C:\Users\kevin\.gradle\caches\transforms-3\613ac54db8a291cdfcd3f19def5594a2\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.videoplayer.video_player_android-core-1.7.0-4 C:\Users\kevin\.gradle\caches\transforms-3\687b21dac0b654f2d90d29fa9ff3ebd7\transformed\core-1.7.0\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-1.0.0-beta04-5 C:\Users\kevin\.gradle\caches\transforms-3\768f74a9029751ad6680571d32613ab7\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.videoplayer.video_player_android-main-6 C:\Users\kevin\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.4.10\android\src\main\res
+io.flutter.plugins.videoplayer.video_player_android-release-7 C:\Users\kevin\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.4.10\android\src\release\res
+io.flutter.plugins.videoplayer.video_player_android-pngs-8 C:\Users\kevin\Downloads\cluster final\cluster\build\video_player_android\generated\res\pngs\release
+io.flutter.plugins.videoplayer.video_player_android-resValues-9 C:\Users\kevin\Downloads\cluster final\cluster\build\video_player_android\generated\res\resValues\release
+io.flutter.plugins.videoplayer.video_player_android-rs-10 C:\Users\kevin\Downloads\cluster final\cluster\build\video_player_android\generated\res\rs\release
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-11 C:\Users\kevin\Downloads\cluster final\cluster\build\video_player_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-12 C:\Users\kevin\Downloads\cluster final\cluster\build\video_player_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.videoplayer.video_player_android-merged_res-13 C:\Users\kevin\Downloads\cluster final\cluster\build\video_player_android\intermediates\merged_res\release

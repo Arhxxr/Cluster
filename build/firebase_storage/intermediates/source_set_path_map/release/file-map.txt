@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-java-1.0.0-beta04-0 C:\Users\kevin\.gradle\caches\transforms-3\297b8caba905b407ec163da52ec549bc\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-firebase-common-20.4.2-1 C:\Users\kevin\.gradle\caches\transforms-3\2ac1886cc7fa19cd13ffe1a07da61f70\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.storage.firebase_storage-core-1.6.0-2 C:\Users\kevin\.gradle\caches\transforms-3\48c080545087e18535dda2f49b69c49f\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-basement-18.1.0-3 C:\Users\kevin\.gradle\caches\transforms-3\5acce594a4d69a9214987f316758b9f4\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-annotation-experimental-1.1.0-4 C:\Users\kevin\.gradle\caches\transforms-3\613ac54db8a291cdfcd3f19def5594a2\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-1.0.0-beta04-5 C:\Users\kevin\.gradle\caches\transforms-3\768f74a9029751ad6680571d32613ab7\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-base-18.0.1-6 C:\Users\kevin\.gradle\caches\transforms-3\d0e9f2c7a09fb63c01cef861f7163045\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.storage.firebase_storage-main-7 C:\Users\kevin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.6.8\android\src\main\res
+io.flutter.plugins.firebase.storage.firebase_storage-release-8 C:\Users\kevin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.6.8\android\src\release\res
+io.flutter.plugins.firebase.storage.firebase_storage-packaged_res-9 C:\Users\kevin\Downloads\cluster final\cluster\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.storage.firebase_storage-pngs-10 C:\Users\kevin\Downloads\cluster final\cluster\build\firebase_storage\generated\res\pngs\release
+io.flutter.plugins.firebase.storage.firebase_storage-resValues-11 C:\Users\kevin\Downloads\cluster final\cluster\build\firebase_storage\generated\res\resValues\release
+io.flutter.plugins.firebase.storage.firebase_storage-rs-12 C:\Users\kevin\Downloads\cluster final\cluster\build\firebase_storage\generated\res\rs\release
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-13 C:\Users\kevin\Downloads\cluster final\cluster\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-14 C:\Users\kevin\Downloads\cluster final\cluster\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.storage.firebase_storage-merged_res-15 C:\Users\kevin\Downloads\cluster final\cluster\build\firebase_storage\intermediates\merged_res\release

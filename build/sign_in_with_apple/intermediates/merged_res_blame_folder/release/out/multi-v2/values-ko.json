@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.aboutyou.dart_packages.sign_in_with_apple-mergeReleaseResources-9:/values-ko/values-ko.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kevin\\.gradle\\caches\\transforms-3\\0ad994f200b2fa78a1b2d20829dff7dd\\transformed\\browser-1.2.0\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,141,234,337",
+                        "endColumns": "85,92,102,92",
+                        "endOffsets": "136,229,332,425"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\kevin\\.gradle\\caches\\transforms-3\\48c080545087e18535dda2f49b69c49f\\transformed\\core-1.6.0\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "430",
+                        "endColumns": "100",
+                        "endOffsets": "526"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.aboutyou.dart_packages.sign_in_with_apple-merged_res-11:/values-ko/values-ko.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kevin\\.gradle\\caches\\transforms-3\\0ad994f200b2fa78a1b2d20829dff7dd\\transformed\\browser-1.2.0\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,141,234,337",
+                        "endColumns": "85,92,102,92",
+                        "endOffsets": "136,229,332,425"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\kevin\\.gradle\\caches\\transforms-3\\48c080545087e18535dda2f49b69c49f\\transformed\\core-1.6.0\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "430",
+                        "endColumns": "100",
+                        "endOffsets": "526"
+                    }
+                }
+            ]
+        }
+    ]
+}

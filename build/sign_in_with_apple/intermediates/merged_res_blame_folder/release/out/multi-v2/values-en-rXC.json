@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.aboutyou.dart_packages.sign_in_with_apple-mergeReleaseResources-9:/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kevin\\.gradle\\caches\\transforms-3\\48c080545087e18535dda2f49b69c49f\\transformed\\core-1.6.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "863",
+                        "endColumns": "203",
+                        "endOffsets": "1062"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\kevin\\.gradle\\caches\\transforms-3\\0ad994f200b2fa78a1b2d20829dff7dd\\transformed\\browser-1.2.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,256,455,667",
+                        "endColumns": "200,198,211,195",
+                        "endOffsets": "251,450,662,858"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.aboutyou.dart_packages.sign_in_with_apple-merged_res-11:/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kevin\\.gradle\\caches\\transforms-3\\48c080545087e18535dda2f49b69c49f\\transformed\\core-1.6.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "863",
+                        "endColumns": "203",
+                        "endOffsets": "1062"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\kevin\\.gradle\\caches\\transforms-3\\0ad994f200b2fa78a1b2d20829dff7dd\\transformed\\browser-1.2.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,256,455,667",
+                        "endColumns": "200,198,211,195",
+                        "endOffsets": "251,450,662,858"
+                    }
+                }
+            ]
+        }
+    ]
+}

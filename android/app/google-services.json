@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177819116489",
+    "project_id": "clusterapp-38332",
+    "storage_bucket": "clusterapp-38332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177819116489:android:586d4831fd26da1649fe18",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9YKlP_xIt1nTP8uQ2g-OEYsk6cGgXTIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

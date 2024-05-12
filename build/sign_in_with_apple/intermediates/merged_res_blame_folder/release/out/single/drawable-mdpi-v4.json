@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.aboutyou.dart_packages.sign_in_with_apple-merged_res-11:/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "com.aboutyou.dart_packages.sign_in_with_apple-core-1.6.0-2:/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.aboutyou.dart_packages.sign_in_with_apple-merged_res-11:/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "com.aboutyou.dart_packages.sign_in_with_apple-core-1.6.0-2:/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.aboutyou.dart_packages.sign_in_with_apple-merged_res-11:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "com.aboutyou.dart_packages.sign_in_with_apple-core-1.6.0-2:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.aboutyou.dart_packages.sign_in_with_apple-merged_res-11:/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "com.aboutyou.dart_packages.sign_in_with_apple-core-1.6.0-2:/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.aboutyou.dart_packages.sign_in_with_apple-merged_res-11:/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "com.aboutyou.dart_packages.sign_in_with_apple-core-1.6.0-2:/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

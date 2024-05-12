@@ -1,0 +1,20 @@
+io.flutter.plugins.firebase.performance.firebase_performance-jetified-window-java-1.0.0-beta04-0 C:\Users\kevin\.gradle\caches\transforms-3\297b8caba905b407ec163da52ec549bc\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.performance.firebase_performance-jetified-firebase-common-20.4.2-1 C:\Users\kevin\.gradle\caches\transforms-3\2ac1886cc7fa19cd13ffe1a07da61f70\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.performance.firebase_performance-lifecycle-runtime-2.3.1-2 C:\Users\kevin\.gradle\caches\transforms-3\47b1d47bdd1a10ffc12c9b8f7f4d5c5f\transformed\lifecycle-runtime-2.3.1\res
+io.flutter.plugins.firebase.performance.firebase_performance-core-1.6.0-3 C:\Users\kevin\.gradle\caches\transforms-3\48c080545087e18535dda2f49b69c49f\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.performance.firebase_performance-jetified-datastore-preferences-1.0.0-4 C:\Users\kevin\.gradle\caches\transforms-3\4ba1b4dab6dc07ce6b7175cdafd96588\transformed\jetified-datastore-preferences-1.0.0\res
+io.flutter.plugins.firebase.performance.firebase_performance-jetified-appcompat-resources-1.2.0-5 C:\Users\kevin\.gradle\caches\transforms-3\4eada41b021a0e52db11ffab853077e8\transformed\jetified-appcompat-resources-1.2.0\res
+io.flutter.plugins.firebase.performance.firebase_performance-jetified-play-services-basement-18.1.0-6 C:\Users\kevin\.gradle\caches\transforms-3\5acce594a4d69a9214987f316758b9f4\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.performance.firebase_performance-jetified-annotation-experimental-1.1.0-7 C:\Users\kevin\.gradle\caches\transforms-3\613ac54db8a291cdfcd3f19def5594a2\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.performance.firebase_performance-jetified-window-1.0.0-beta04-8 C:\Users\kevin\.gradle\caches\transforms-3\768f74a9029751ad6680571d32613ab7\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.performance.firebase_performance-jetified-datastore-1.0.0-9 C:\Users\kevin\.gradle\caches\transforms-3\e1b5015d181898cc5bbeea037ff157d0\transformed\jetified-datastore-1.0.0\res
+io.flutter.plugins.firebase.performance.firebase_performance-appcompat-1.2.0-10 C:\Users\kevin\.gradle\caches\transforms-3\f009572fa9d3826fa509854a45b726ac\transformed\appcompat-1.2.0\res
+io.flutter.plugins.firebase.performance.firebase_performance-main-11 C:\Users\kevin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_performance-0.9.3+16\android\src\main\res
+io.flutter.plugins.firebase.performance.firebase_performance-release-12 C:\Users\kevin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_performance-0.9.3+16\android\src\release\res
+io.flutter.plugins.firebase.performance.firebase_performance-packaged_res-13 C:\Users\kevin\Downloads\cluster final\cluster\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.performance.firebase_performance-pngs-14 C:\Users\kevin\Downloads\cluster final\cluster\build\firebase_performance\generated\res\pngs\release
+io.flutter.plugins.firebase.performance.firebase_performance-resValues-15 C:\Users\kevin\Downloads\cluster final\cluster\build\firebase_performance\generated\res\resValues\release
+io.flutter.plugins.firebase.performance.firebase_performance-rs-16 C:\Users\kevin\Downloads\cluster final\cluster\build\firebase_performance\generated\res\rs\release
+io.flutter.plugins.firebase.performance.firebase_performance-mergeReleaseResources-17 C:\Users\kevin\Downloads\cluster final\cluster\build\firebase_performance\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.performance.firebase_performance-mergeReleaseResources-18 C:\Users\kevin\Downloads\cluster final\cluster\build\firebase_performance\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.performance.firebase_performance-merged_res-19 C:\Users\kevin\Downloads\cluster final\cluster\build\firebase_performance\intermediates\merged_res\release
