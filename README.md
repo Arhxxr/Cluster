@@ -21,4 +21,4 @@ Cluster is a dynamic social media app designed exclusively for college students 
 ### 🤝 **Dynamic Socializing**
 - Build connections beyond the classroom with casual conversations, shared experiences, and lively group discussions.
 
-#### Built as the final group android application project for the CSE3310 - Fundamentals of Software Engineering course
+#### 📑 Built as the final group android application project for the CSE3310 - Fundamentals of Software Engineering course.
