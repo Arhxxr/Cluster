@@ -3,6 +3,7 @@
 Cluster is a dynamic social media app designed exclusively for college students and their communities. It serves as a central platform to foster seamless communication, collaboration, and connection among students.
 
 ---
+![Cluster](https://github.com/user-attachments/assets/3550e184-c7c1-4367-928c-2bd9142fede9)
 
 ## Key Features
 
